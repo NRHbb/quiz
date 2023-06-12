@@ -1,0 +1,8 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NRHbb/quiz.git",
+  "author": "NRHbb <nrhbb14@gmail.com>",
+  "license": "MIT"
+}
